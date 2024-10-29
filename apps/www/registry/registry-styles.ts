@@ -4,6 +4,10 @@ export const styles = [
     label: "New York",
   },
   {
+    name: "skeontech",
+    label: "SkeonTech",
+  },
+  {
     name: "default",
     label: "Default",
   },
